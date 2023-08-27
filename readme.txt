@@ -1,1 +1,1 @@
-r
+local path: http://localhost:3000/smallTool
